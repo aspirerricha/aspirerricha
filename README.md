@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi I am Richa:
 I'm a Computer Science undergraduate passionate about learning new technologies and building projects.  <br>Currently exploring: Web Development | Python | Machine Learning | Data Structures & Algorithms]    <br>Always eager to learn and collaborate on exciting tech ideas.
 
 
